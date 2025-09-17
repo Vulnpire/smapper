@@ -154,7 +154,7 @@ We’re inviting the first 3 contributors to a **private CyberPars Discord** for
 ## Contact
 
 * Website: [cyberpars.com](https://cyberpars.com)
-* Email: [contact@cyberpars.com](mailto:contact@cyberpars.com)
+* Email: [info@cyberpars.com](mailto:info@cyberpars.com)
 * LinkedIn: [https://www.linkedin.com/company/cyberpars/](https://www.linkedin.com/company/cyberpars/)
 
 ---
