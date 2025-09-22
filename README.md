@@ -164,3 +164,14 @@ We’re inviting the first 3 contributors to a **private CyberPars Discord** for
 * **v0.1** — initial CRT-based enumeration, normalization & resolution
 * **v0.2** — integrate passive sources, optional DNS brute force module, richer output formats (JSON/CSV)
 * **future** — tighter Phantom Sight integration, plugins for `httpx`/`nuclei` orchestration, shodan/knock-based enrichments
+
+---
+
+## Axiom Support
+
+```json
+[{
+        "command":"cat input | smapper | anew output",
+        "ext":"txt"
+}]
+```
